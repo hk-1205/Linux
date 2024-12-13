@@ -1,0 +1,18 @@
+ls -> listing
+2. cd -> change directory 
+  2.1 cd .. -> changes directory to prev directory
+  2.2 cd -> changes directory to root
+  2.3 cd [destination] -> it should be in same directory
+3. pwd -> present working directory
+4. mkdir -> creates a directory
+5. rm -> remove 
+  5.1 rm [file_name] -> removes specific files
+  5.2 rm -d -> removes empty directory
+  5.3 rm -r -> removes non empty directory
+  5.4 rmdir -> removes empty directory
+  5.5 rmdir -p -> removes sub directory and parent
+6. cp -> copy command 
+  cp [source] [destination]
+7. mv -> move command
+  mv [source] [destination]
+8. touch -> to create a file
